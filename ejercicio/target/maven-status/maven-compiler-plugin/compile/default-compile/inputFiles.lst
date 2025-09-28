@@ -1,0 +1,6 @@
+/home/debian/Desktop/EjercicioPruebas/ejercicio/src/main/java/com/tiernoparla/ejercicio/App.java
+/home/debian/Desktop/EjercicioPruebas/ejercicio/src/main/java/com/tiernoparla/ejercicio/controller/AlumnoController.java
+/home/debian/Desktop/EjercicioPruebas/ejercicio/src/main/java/com/tiernoparla/ejercicio/model/Alumno.java
+/home/debian/Desktop/EjercicioPruebas/ejercicio/src/main/java/com/tiernoparla/ejercicio/model/database/AlumnoDAO.java
+/home/debian/Desktop/EjercicioPruebas/ejercicio/src/main/java/com/tiernoparla/ejercicio/model/database/AlumnoDAOImpl.java
+/home/debian/Desktop/EjercicioPruebas/ejercicio/src/main/java/com/tiernoparla/ejercicio/view/AlumnoViewController.java
